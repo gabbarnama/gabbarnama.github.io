@@ -25,4 +25,4 @@ I'm always eager to connect with fellow enthusiasts, so don't hesitate to reach 
 
 Thanks for stopping by, and I hope you enjoy exploring the world of tech and finance with me!
 
-[Contact Me](mail:atul(at)(thisdomain)(dot)com)
+[Contact Me](mailto:atul(at)(thisdomain)(dot)com)
