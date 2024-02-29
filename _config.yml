@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: "gabbarnama/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "gabbarnama/minimal-mistakes"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 markdown: kramdown
 
