@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Explore the limitless possibilities at Techinode, where innovation meets opportunity. Delve into a world of cutting-edge insights and visionary ideas, igniting your imagination and empowering your journey towards technological prowess and financial success. Join us in reshaping tomorrow's landscape today.
 twitter_username: techinode
 github_username: gabbarnama
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
