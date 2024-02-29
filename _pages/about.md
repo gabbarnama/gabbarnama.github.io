@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# About Me
 
 Welcome to my corner of the web! I'm Atul, a passionate explorer at the crossroads of technology and finance. Here's a bit about who I am and what I do:
 
