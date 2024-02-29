@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Techinode: Unlocking the Future of Tech and Wealth
+title: Techinode\: Unlocking the Future of Tech and Wealth
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Explore the limitless possibilities at Techinode, where innovation meets opportunity. Delve into a world of cutting-edge insights and visionary ideas, igniting your imagination and empowering your journey towards technological prowess and financial success. Join us in reshaping tomorrow's landscape today.
