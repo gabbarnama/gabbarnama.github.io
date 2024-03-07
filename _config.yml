@@ -32,7 +32,7 @@ subtitle                 : "Unlocking the Future of Tech and Wealth"
 name                     : "Atul"
 description              : "Explore the limitless possibilities at Techinode, where innovation meets opportunity. Delve into a world of cutting-edge insights and visionary ideas, igniting your imagination and empowering your journey towards technological prowess and financial success. Join us in reshaping tomorrow's landscape today."
 url                      : "https://techinode.com"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/88x88.png"
 
 words_per_minute         : 200
 comments:
@@ -51,6 +51,16 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+
+twitter:
+  username: "techinode"
+og_image: /assets/images/88x88.png
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-FMCM2E2DBS"
+    anonymize_ip: false # default
 
 
 # Outputting
