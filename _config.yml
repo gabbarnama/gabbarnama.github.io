@@ -122,9 +122,8 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/gabbarnama"
     - label: "Terms"
-      icon: "fab fa-gavel"
+      icon: "fab fa-fw fa-gavel"
       url: "/terms"
-
 defaults:
   # _posts
   - scope:
