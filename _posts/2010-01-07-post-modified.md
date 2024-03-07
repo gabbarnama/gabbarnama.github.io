@@ -8,6 +8,8 @@ tags:
   - Post Formats
   - readability
   - standard
+header:
+  teaser: "https://photos.google.com/share/AF1QipMDGipI3CAOYhV7j1CUdnS8cUI9-Cbsa4Z-Bv_n8rapcEuUgowWTvM2MwQ0sNO7uQ/photo/AF1QipOxeAisVbvzCzizFDK1r-VCg3iDzdGzAW8un0Ad?key=bDFJOG1rcEoxUmVMazBZYUlqMkdaX0pTYkt2LU9n"
 ---
 
 This post has been updated and should show a modified date if used in a layout.
