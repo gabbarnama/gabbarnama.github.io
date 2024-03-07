@@ -9,7 +9,7 @@ tags:
   - readability
   - standard
 header:
-  teaser: "https://photos.google.com/share/AF1QipMDGipI3CAOYhV7j1CUdnS8cUI9-Cbsa4Z-Bv_n8rapcEuUgowWTvM2MwQ0sNO7uQ/photo/AF1QipOxeAisVbvzCzizFDK1r-VCg3iDzdGzAW8un0Ad?key=bDFJOG1rcEoxUmVMazBZYUlqMkdaX0pTYkt2LU9n"
+  teaser: "https://lh3.googleusercontent.com/pw/AP1GczPoBem3xt55YV6eBmPs8UXSsdQWXV4NTJilM3wZdOI-27jXsRFlyziLWYcAAwXK4vsElUV27FFllzOqsm8YQWBKRzo8lSbvOLbPWtLgiSLUjqwZnlWwT_wuVHdxZG0B0vBCjKDclOFb0ZXeCIcdxD50=w180-h100-s-no-gm"
 ---
 
 This post has been updated and should show a modified date if used in a layout.
