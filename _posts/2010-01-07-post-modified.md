@@ -9,7 +9,7 @@ tags:
   - readability
   - standard
 header:
-  teaser: "https://lh3.googleusercontent.com/pw/AP1GczPoBem3xt55YV6eBmPs8UXSsdQWXV4NTJilM3wZdOI-27jXsRFlyziLWYcAAwXK4vsElUV27FFllzOqsm8YQWBKRzo8lSbvOLbPWtLgiSLUjqwZnlWwT_wuVHdxZG0B0vBCjKDclOFb0ZXeCIcdxD50=w180-h100-s-no-gm"
+  teaser: "/assets/images/88x88.png"
 ---
 
 This post has been updated and should show a modified date if used in a layout.
