@@ -110,14 +110,12 @@ These examples show that even as a "copier," a company can still innovate by foc
 
 ---
 ### The 10x Rule
-#The-10x-Rule
 Simply put, the new (and supposedly improved) idea, product or service will only be accepted by the masses if it is "10x better" than the competition. The improvement has to be on at least one dimension of speed, functionality, cost-effectiveness or user experience that makes the product better than the alternative without being worse on the others. The gap would ensure that once someone experiences your product, they cannot go back to the original.... The idea can be traced back to Bill Gross, an Internet entrepreneur of the 1990s who founded successful startups such as GoTo.com (Overture, which Yahoo! bought for $1.63 billion in 2003) and others. 
 
 The insight is simple, but when taken literally it often leads to disastrous results. The improvement must be in an existing gap between the alternatives. For example, the Ford car won because it was 10x better than a horse-drawn cart in terms of ease of use and reliability. Would a 10x better horse-drawn cart have beaten the car? Google succeeded because it was at least 10x better than the others in ranking the search results with their PageRank algorithm. Uber grew because it made cab hailing 10x than the existing cabs services. 
 
 ---
 ### Product-Market Fit
-#Product-Market-Fit
 The term product/market fit was coined by Sequoia Capital founder Don Valentine, formalised by Andy Rachleff and later popularised by Mark Andreessen of a16z. "*Product/market fit means being in a good market with a product that can satisfy that market.*" Product-Market Fit (PMF) is a stage in a company's growth journey when the products or services it sells are substantial enough (without much spends on ads) to meet the needs of the market. It's one of the first milestones on the road to becoming a successful business, and once a company has achieved product-market fit, it can focus solely on product scaling and innovation.
 
 With the recent rise in popularity and acceptance of the subscription model within SaaS, there has been more focus from VCs on distilling the observations of successful and not so successful startups into a checklist and framework that founders can follow. Many VCs run programmes focused on achieving PMF (Surge etc.). This has also led to a misconception among the *naive* founders that they just need to follow the suggested steps and they will be set for success. Nothing could be more wrong and they must understand that *what has worked for others may not work for them*.
@@ -140,8 +138,7 @@ There is much more to PMF that cannot be covered in a short article and would be
 
 ---
 ### Technology Adoption Curve
-#Technology-Adoption-Curve
- The technology adoption curve is based on the diffusion of innovations and the marketing chasm concept first developed by Lee James and Warren Schirtzinger and popularised by George A. Moore in his book *Crossing the Chasm*. It is based on the assumption that every technology goes through different stages in its life cycle and is received differently by different target groups.
+The technology adoption curve is based on the diffusion of innovations and the marketing chasm concept first developed by Lee James and Warren Schirtzinger and popularised by George A. Moore in his book *Crossing the Chasm*. It is based on the assumption that every technology goes through different stages in its life cycle and is received differently by different target groups.
 
 <figure>
     <img src="{{ '/assets/images/posts/Product-Adoption.png' | relative_url }}" 
