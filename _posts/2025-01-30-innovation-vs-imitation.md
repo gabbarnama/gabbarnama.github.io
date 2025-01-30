@@ -38,7 +38,7 @@ When considering the product strategies of organizations, there are generally th
 
 There is a constant tug-of-war among the strategists over which approach is better. Purists favour genius innovators who take the risks, educate market and extend the frontier of innovation with the new knowledge [4](https://evolutionarytree.com/insight/opportunity-found-innovation-frontier). The first two categories differ from the third as the third excels in markets where barrier of entry (copyrights, scale etc.) are minimal and price discount trumps brand premium (intangible / promise of consistent value). 
 First-mover advantage works best in markets with slow growth and limited technological change. This is particularly evident in the context of ERP software, where standardised operations and high switching costs (*lock-in* effects) favour early entrants. However, late movers can thrive in markets with slow evolution and rapid technological advancements. A prime example is Jio, an Indian telecom operator that successfully leapfrogged to 4G technology as smartphone penetration increased, while competitors were still struggling with older 2G and 3G standards.
-<figure style="text-align: center;">
+<figure style="align-items: center; text-align: center;">
     <img src="{{ '/assets/images/posts/Build-Wait.png' | relative_url }}" 
          alt="Build vs Wait strategy" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
@@ -62,7 +62,7 @@ To understand the reason for the success of these companies, I use the framework
 Built on this foundation is the tangible product or service offering, the 'what' and 'how' that delivers value. For all the successful companies, all the inspiration and copying happens at this level. 
 
 Finally, effective communication acts as a bridge between the company and its customers, clearly articulating the value proposition and ensuring long-term success. This layered approach ensures that innovation is rooted in a strong purpose, delivered through a compelling product and effectively communicated to the market.
-<figure style="text-align: center;">
+<figure style="align-items: center; text-align: center;">
     <img src="{{ '/assets/images/posts/Earth-Analogy-Copiers.png' | relative_url }}" 
          alt="Business layer analogy" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
@@ -127,7 +127,7 @@ Whether it's a B2B or B2C product, the hard truth of PMF remains:
 4. **Increasing repeat user rates**: Repeat rates would increase with each successive product/feature launch, and word-of-mouth would drive a significant share of revenue
 5. **Growth rate exceeds market growth rate:** You are growing much faster than the market and are gaining market share.
 
-<figure style="text-align: center;">
+<figure style="align-items: center; text-align: center;">
     <img src="{{ '/assets/images/posts/PMF-Enterprise-Consumer.png' | relative_url }}" 
          alt="Product Market Fit diagram" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
@@ -140,7 +140,7 @@ There is much more to PMF that cannot be covered in a short article and would be
 ### Technology Adoption Curve
 The technology adoption curve is based on the diffusion of innovations and the marketing chasm concept first developed by Lee James and Warren Schirtzinger and popularised by George A. Moore in his book *Crossing the Chasm*. It is based on the assumption that every technology goes through different stages in its life cycle and is received differently by different target groups.
 
-<figure style="text-align: center;">
+<figure style="align-items: center; text-align: center;">
     <img src="{{ '/assets/images/posts/Product-Adoption.png' | relative_url }}" 
          alt="Product Adoption Curve" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
