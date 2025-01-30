@@ -4,12 +4,11 @@ date: 2025-01-30 22:00:00 +0530
 hidden: false
 excerpt_separator: "<!--more-->"
 categories:
-  - Business Strategy
-  - Technology
+  - Blog
 tags:
   - innovation
-  - product-management
   - business-models
+  - technology
 header:
   teaser: "/assets/images/posts/innovation-imitation.jpeg"
 ---
@@ -18,20 +17,19 @@ Money! Money is more than just currency - it's a reflection of the value we exch
 <!--more-->
 We often notice patterns in how ideas originate and spread. Ideas can be big or small. Big ideas are rare, while small ideas emerge and fade more frequently. However, the size of an idea doesn’t determine its adoption. What really matters is how easy and intuitive it is to accomplish a task using that idea, compared to existing alternatives.
 
-#### Radical, Disruptive, and Incremental Innovation
-#disruptive-innovation  
-Disruptive innovation is defined by how radically new ideas challenge the status quo. A common industry rule of thumb is that a new product must be 10x better than existing alternatives to change user behavior [[Innovation vs Imitation - Money and Improvements#The 10x Rule|1]]. The 10x rule ensures the superior product rises to the top. Semiconductors replaced transistors, email overtook physical mail, mobile phones displaced landlines, and small computers gained dominance over their predecessors. This is a classic example of disruptive innovation, where new technologies displace established ones by offering better experiences.
+### Radical, Disruptive, and Incremental Innovation
+Disruptive innovation is defined by how radically new ideas challenge the status quo. A common industry rule of thumb is that a new product must be 10x better than existing alternatives to change user behavior [1](#the-10x-rule). The 10x rule ensures the superior product rises to the top. Semiconductors replaced transistors, email overtook physical mail, mobile phones displaced landlines, and small computers gained dominance over their predecessors. This is a classic example of disruptive innovation, where new technologies displace established ones by offering better experiences.
 
-#incremental-innovation  
 However, as with any free market, competition soon follows, and the first-mover advantage is often short-lived. Not every new entrant can be 10x better than the competition—many are just marginally improved versions, representing incremental innovations.
 
-While you can’t completely avoid competition, you can make the market less appealing to new entrants by innovating rapidly, offering a unique value proposition that’s hard to imitate, securing control over critical resources through vertical integration, or playing the cost game by leveraging scale once product-market fit has been achieved [[Innovation vs Imitation - Money and Improvements#Product-Market Fit|2]]. This strategy can help you establish a dominant position (_monopoly_).
+While you can’t completely avoid competition, you can make the market less appealing to new entrants by innovating rapidly, offering a unique value proposition that’s hard to imitate, securing control over critical resources through vertical integration, or playing the cost game by leveraging scale once product-market fit has been achieved [2](#product-market-fit). This strategy can help you establish a dominant position (_monopoly_).
 
-#radical-innovation  
-Then, there’s a third category of ideas—those that failed the 10x rule initially and were discontinued due to poor demand, but later became successful. These ideas are often ahead of their time, stymied by technological limitations or societal factors that hinder mass adoption [[Innovation vs Imitation - Money and Improvements#Technology Adoption Curve|3]]. For example, virtual reality was explored in the 1990s, but early headsets were bulky, expensive, and lacked sufficient content. Today, thanks to advances in display technology, processing power, and content creation, virtual reality has become more accessible and immersive, with applications in gaming, entertainment, education, and even therapy. Similarly, the cloud computing and Software as a Service (SaaS) models were attempted several times before virtualization technology made them feasible and successful. These are examples of radical innovation, where new technologies create entirely new markets.... #### Innovators and Late Entrants
+Then, there’s a third category of ideas—those that failed the 10x rule initially and were discontinued due to poor demand, but later became successful. These ideas are often ahead of their time, stymied by technological limitations or societal factors that hinder mass adoption [3](#technology-adoption-curve). For example, virtual reality was explored in the 1990s, but early headsets were bulky, expensive, and lacked sufficient content. Today, thanks to advances in display technology, processing power, and content creation, virtual reality has become more accessible and immersive, with applications in gaming, entertainment, education, and even therapy. Similarly, the cloud computing and Software as a Service (SaaS) models were attempted several times before virtualization technology made them feasible and successful. These are examples of radical innovation, where new technologies create entirely new markets.
 
-> "To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions."  
-> - _Steve Jobs_
+### Innovators and Late Entrants
+
+> To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.
+<cite> Steve Jobs </cite>
 
 When considering the product strategies of organizations, there are generally three approaches:
 1. Innovate and leverage first-mover advantage to capture market share
@@ -41,10 +39,15 @@ When considering the product strategies of organizations, there are generally th
 There is a constant tug-of-war among the strategists over which approach is better. Purists favour genius innovators who take the risks, educate market and extend the frontier of innovation with the new knowledge [4](https://evolutionarytree.com/insight/opportunity-found-innovation-frontier). The first two categories differ from the third as the third excels in markets where barrier of entry (copyrights, scale etc.) are minimal and price discount trumps brand premium (intangible / promise of consistent value). 
 First-mover advantage works best in markets with slow growth and limited technological change. This is particularly evident in the context of ERP software, where standardised operations and high switching costs (*lock-in* effects) favour early entrants. However, late movers can thrive in markets with slow evolution and rapid technological advancements. A prime example is Jio, an Indian telecom operator that successfully leapfrogged to 4G technology as smartphone penetration increased, while competitors were still struggling with older 2G and 3G standards.
 
-![assets/images/posts/Build-Wait.png](assets/images/posts/Build-Wait.png)
+<figure>
+    <img src="{{ '/assets/images/posts/Build-Wait.png' | relative_url }}" 
+         alt="Build vs Wait strategy" 
+         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption class="text-center">Comparing Build and Wait Strategies in Business Innovation</figcaption>
+</figure>
 
-> "Vision without implementation is just hallucination."
-> - _Thomas Edison_
+> Vision without implementation is just hallucination.
+<cite>Thomas Edison</cite>
 
 In most other scenarios, agile players with substantial financial resources are better positioned to capture market share. Deep learning, exemplified by ChatGPT from OpenAI, is a recent example of a technology that has rapidly evolved, requiring agile players with deep pockets to remain competitive. Other examples include the ride-hailing industry, where companies like Uber and Lyft disrupted established taxi markets through technological innovation and aggressive marketing. Additionally, the streaming video market, dominated by Netflix and Amazon Prime Video, demonstrates the importance of agility and financial resources in rapidly evolving industries.
 
@@ -61,7 +64,12 @@ Built on this foundation is the tangible product or service offering, the 'what'
 
 Finally, effective communication acts as a bridge between the company and its customers, clearly articulating the value proposition and ensuring long-term success. This layered approach ensures that innovation is rooted in a strong purpose, delivered through a compelling product and effectively communicated to the market.
 
-![assets/images/posts/Earth-Analogy-Copiers.png](assets/images/posts/Earth-Analogy-Copiers.png)
+<figure>
+    <img src="{{ '/assets/images/posts/Earth-Analogy-Copiers.png' | relative_url }}" 
+         alt="Business layer analogy" 
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption class="text-center">Layered Business Model: Core, Product, and Communication</figcaption>
+</figure>
 
 If these foundational elements aren't properly layered, it’s unlikely that any company—whether an incumbent or a disruptor-will achieve market dominance. It’s essential to start with the ‘why’-the core mission and vision-and then build outwards, ensuring that the product and communication strategy align with this fundamental purpose.
 
@@ -73,7 +81,8 @@ In addition to initial local pushes, the success of these companies is often dri
 1. A good enough product at a significantly lower price (total cost of ownership)
 2. Feature differentiation based on local and regional needs
 3. A centralized, fast decision-making structure that enables agility
-##### Being a Copier and Still Innovating
+
+#### Being a Copier and Still Innovating
 As a Product Manager, you're often tasked with refining and iterating on existing features rather than creating something entirely new. This doesn't mean you're not innovating-it means you're engaging in incremental innovation. Even small changes, whether improving usability, speeding up a process, or enhancing customer support features can make a significant impact. These improvements can lead to better user retention, reduced churn, and more meaningful long-term success.... The key here is shifting the mindset from being a mere "feature executor" to embracing the idea of incremental innovation. Even if you're working in an environment that feels like a feature factory, you're still contributing to the evolution of the product and the business. Innovation doesn't always have to be groundbreaking; sometimes, it’s about small, continuous improvements that make a huge difference over time.
 
 By adopting an incremental innovation mindset, you're not just executing features—you're building expertise, gaining insights, and contributing to the product's ongoing evolution. Even within a feature factory, you can find ways to innovate by optimizing existing processes, collaborating across teams, and ensuring that each new feature is carefully aligned with user needs and market trends.
@@ -109,6 +118,8 @@ Simply put, the new (and supposedly improved) idea, product or service will only
 
 The insight is simple, but when taken literally it often leads to disastrous results. The improvement must be in an existing gap between the alternatives. For example, the Ford car won because it was 10x better than a horse-drawn cart in terms of ease of use and reliability. Would a 10x better horse-drawn cart have beaten the car? Google succeeded because it was at least 10x better than the others in ranking the search results with their PageRank algorithm. Uber grew because it made cab hailing 10x than the existing cabs services. 
 
+---
+
 ### Product-Market Fit
 #Product-Market-Fit
 The term product/market fit was coined by Sequoia Capital founder Don Valentine, formalised by Andy Rachleff and later popularised by Mark Andreessen of a16z. "*Product/market fit means being in a good market with a product that can satisfy that market.*" Product-Market Fit (PMF) is a stage in a company's growth journey when the products or services it sells are substantial enough (without much spends on ads) to meet the needs of the market. It's one of the first milestones on the road to becoming a successful business, and once a company has achieved product-market fit, it can focus solely on product scaling and innovation.
@@ -122,13 +133,27 @@ Whether it's a B2B or B2C product, the hard truth of PMF remains:
 4. **Increasing repeat user rates**: Repeat rates would increase with each successive product/feature launch, and word-of-mouth would drive a significant share of revenue
 5. **Growth rate exceeds market growth rate:** You are growing much faster than the market and are gaining market share.
 
-![assets/images/posts/PMF-Enterprise-Consumer.png](assets/images/posts/PMF-Enterprise-Consumer.png)
+<figure>
+    <img src="{{ '/assets/images/posts/PMF-Enterprise-Consumer.png' | relative_url }}" 
+         alt="Product Market Fit diagram" 
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption class="text-center">Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
+</figure>
 
 There is much more to PMF that cannot be covered in a short article and would be covered in a more detailed article at a later date. I would like to do a detailed article in the future on the do's and don'ts of PMF based on the frameworks + my thoughts, scale-up metrics and how to identify when you have achieved PMF.
+
+---
 
 ### Technology Adoption Curve
 #Technology-Adoption-Curve
  The technology adoption curve is based on the diffusion of innovations and the marketing chasm concept first developed by Lee James and Warren Schirtzinger and popularised by George A. Moore in his book *Crossing the Chasm*. It is based on the assumption that every technology goes through different stages in its life cycle and is received differently by different target groups.
-![assets/images/posts/Product-Adoption.png](assets/images/posts/Product-Adoption.png)
+
+<figure>
+    <img src="{{ '/assets/images/posts/Product-Adoption.png' | relative_url }}" 
+         alt="Product Adoption Curve" 
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption class="text-center">Product-Adoption Curve and the Chasm</figcaption>
+</figure>
 
 New products often fail to gain mainstream acceptance, despite initial good reception. There is a gap between the early adopters and the mainstream market. Mainstream companies look at the market to see who has already adopted your offering. If other big companies are already using the product, it will be adopted quickly. If not, it will fail. Few companies can cross the chasm. The framework suggests focusing on one audience at a time, and expanding the product as soon as an innovative company uses it to gain a competitive advantage.
+---
