@@ -38,11 +38,11 @@ When considering the product strategies of organizations, there are generally th
 
 There is a constant tug-of-war among the strategists over which approach is better. Purists favour genius innovators who take the risks, educate market and extend the frontier of innovation with the new knowledge [4](https://evolutionarytree.com/insight/opportunity-found-innovation-frontier). The first two categories differ from the third as the third excels in markets where barrier of entry (copyrights, scale etc.) are minimal and price discount trumps brand premium (intangible / promise of consistent value). 
 First-mover advantage works best in markets with slow growth and limited technological change. This is particularly evident in the context of ERP software, where standardised operations and high switching costs (*lock-in* effects) favour early entrants. However, late movers can thrive in markets with slow evolution and rapid technological advancements. A prime example is Jio, an Indian telecom operator that successfully leapfrogged to 4G technology as smartphone penetration increased, while competitors were still struggling with older 2G and 3G standards.
-<figure>
+<figure style="text-align: center;">
     <img src="{{ '/assets/images/posts/Build-Wait.png' | relative_url }}" 
          alt="Build vs Wait strategy" 
-         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
-    <figcaption style="align-items: center;">Comparing Build and Wait Strategies in Business Innovation</figcaption>
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption>Comparing Build and Wait Strategies in Business Innovation</figcaption>
 </figure>
 
 > Vision without implementation is just hallucination.
@@ -62,11 +62,11 @@ To understand the reason for the success of these companies, I use the framework
 Built on this foundation is the tangible product or service offering, the 'what' and 'how' that delivers value. For all the successful companies, all the inspiration and copying happens at this level. 
 
 Finally, effective communication acts as a bridge between the company and its customers, clearly articulating the value proposition and ensuring long-term success. This layered approach ensures that innovation is rooted in a strong purpose, delivered through a compelling product and effectively communicated to the market.
-<figure>
+<figure style="text-align: center;">
     <img src="{{ '/assets/images/posts/Earth-Analogy-Copiers.png' | relative_url }}" 
          alt="Business layer analogy" 
-         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
-    <figcaption style="align-items: center;">Layered Business Model: Core, Product, and Communication</figcaption>
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption>Layered Business Model: Core, Product, and Communication</figcaption>
 </figure>
 
 If these foundational elements aren't properly layered, it’s unlikely that any company—whether an incumbent or a disruptor-will achieve market dominance. It’s essential to start with the ‘why’-the core mission and vision-and then build outwards, ensuring that the product and communication strategy align with this fundamental purpose.
@@ -127,11 +127,11 @@ Whether it's a B2B or B2C product, the hard truth of PMF remains:
 4. **Increasing repeat user rates**: Repeat rates would increase with each successive product/feature launch, and word-of-mouth would drive a significant share of revenue
 5. **Growth rate exceeds market growth rate:** You are growing much faster than the market and are gaining market share.
 
-<figure>
+<figure style="text-align: center;">
     <img src="{{ '/assets/images/posts/PMF-Enterprise-Consumer.png' | relative_url }}" 
          alt="Product Market Fit diagram" 
-         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
-    <figcaption style="align-items: center;">Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption>Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
 </figure>
 
 There is much more to PMF that cannot be covered in a short article and would be covered in a more detailed article at a later date. I would like to do a detailed article in the future on the do's and don'ts of PMF based on the frameworks + my thoughts, scale-up metrics and how to identify when you have achieved PMF.
@@ -140,11 +140,11 @@ There is much more to PMF that cannot be covered in a short article and would be
 ### Technology Adoption Curve
 The technology adoption curve is based on the diffusion of innovations and the marketing chasm concept first developed by Lee James and Warren Schirtzinger and popularised by George A. Moore in his book *Crossing the Chasm*. It is based on the assumption that every technology goes through different stages in its life cycle and is received differently by different target groups.
 
-<figure>
+<figure style="text-align: center;">
     <img src="{{ '/assets/images/posts/Product-Adoption.png' | relative_url }}" 
          alt="Product Adoption Curve" 
-         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
-    <figcaption style="align-items: center;">Product-Adoption Curve and the Chasm</figcaption>
+         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
+    <figcaption>Product-Adoption Curve and the Chasm</figcaption>
 </figure>
 
 New products often fail to gain mainstream acceptance, despite initial good reception. There is a gap between the early adopters and the mainstream market. Mainstream companies look at the market to see who has already adopted your offering. If other big companies are already using the product, it will be adopted quickly. If not, it will fail. Few companies can cross the chasm. The framework suggests focusing on one audience at a time, and expanding the product as soon as an innovative company uses it to gain a competitive advantage.
