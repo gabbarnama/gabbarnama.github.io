@@ -41,8 +41,8 @@ First-mover advantage works best in markets with slow growth and limited technol
 <figure>
     <img src="{{ '/assets/images/posts/Build-Wait.png' | relative_url }}" 
          alt="Build vs Wait strategy" 
-         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption style="text-align: center;">Comparing Build and Wait Strategies in Business Innovation</figcaption>
+         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
+    <figcaption style="align-items: center;">Comparing Build and Wait Strategies in Business Innovation</figcaption>
 </figure>
 
 > Vision without implementation is just hallucination.
@@ -65,8 +65,8 @@ Finally, effective communication acts as a bridge between the company and its cu
 <figure>
     <img src="{{ '/assets/images/posts/Earth-Analogy-Copiers.png' | relative_url }}" 
          alt="Business layer analogy" 
-         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption style="text-align: center;">Layered Business Model: Core, Product, and Communication</figcaption>
+         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
+    <figcaption style="align-items: center;">Layered Business Model: Core, Product, and Communication</figcaption>
 </figure>
 
 If these foundational elements aren't properly layered, it’s unlikely that any company—whether an incumbent or a disruptor-will achieve market dominance. It’s essential to start with the ‘why’-the core mission and vision-and then build outwards, ensuring that the product and communication strategy align with this fundamental purpose.
@@ -130,8 +130,8 @@ Whether it's a B2B or B2C product, the hard truth of PMF remains:
 <figure>
     <img src="{{ '/assets/images/posts/PMF-Enterprise-Consumer.png' | relative_url }}" 
          alt="Product Market Fit diagram" 
-         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption style="text-align: center;">Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
+         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
+    <figcaption style="align-items: center;">Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
 </figure>
 
 There is much more to PMF that cannot be covered in a short article and would be covered in a more detailed article at a later date. I would like to do a detailed article in the future on the do's and don'ts of PMF based on the frameworks + my thoughts, scale-up metrics and how to identify when you have achieved PMF.
@@ -143,8 +143,8 @@ The technology adoption curve is based on the diffusion of innovations and the m
 <figure>
     <img src="{{ '/assets/images/posts/Product-Adoption.png' | relative_url }}" 
          alt="Product Adoption Curve" 
-         style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption style="text-align: center;">Product-Adoption Curve and the Chasm</figcaption>
+         style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto; align-item: center;">
+    <figcaption style="align-items: center;">Product-Adoption Curve and the Chasm</figcaption>
 </figure>
 
 New products often fail to gain mainstream acceptance, despite initial good reception. There is a gap between the early adopters and the mainstream market. Mainstream companies look at the market to see who has already adopted your offering. If other big companies are already using the product, it will be adopted quickly. If not, it will fail. Few companies can cross the chasm. The framework suggests focusing on one audience at a time, and expanding the product as soon as an innovative company uses it to gain a competitive advantage.
