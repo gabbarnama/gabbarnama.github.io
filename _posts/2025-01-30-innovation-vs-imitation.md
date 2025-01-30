@@ -29,7 +29,7 @@ Then, there’s a third category of ideas—those that failed the 10x rule initi
 ### Innovators and Late Entrants
 
 > To me, ideas are worth nothing unless executed. They are just a multiplier. Execution is worth millions.
-<cite> Steve Jobs </cite>
+<cite>Steve Jobs </cite>
 
 When considering the product strategies of organizations, there are generally three approaches:
 1. Innovate and leverage first-mover advantage to capture market share
@@ -38,12 +38,11 @@ When considering the product strategies of organizations, there are generally th
 
 There is a constant tug-of-war among the strategists over which approach is better. Purists favour genius innovators who take the risks, educate market and extend the frontier of innovation with the new knowledge [4](https://evolutionarytree.com/insight/opportunity-found-innovation-frontier). The first two categories differ from the third as the third excels in markets where barrier of entry (copyrights, scale etc.) are minimal and price discount trumps brand premium (intangible / promise of consistent value). 
 First-mover advantage works best in markets with slow growth and limited technological change. This is particularly evident in the context of ERP software, where standardised operations and high switching costs (*lock-in* effects) favour early entrants. However, late movers can thrive in markets with slow evolution and rapid technological advancements. A prime example is Jio, an Indian telecom operator that successfully leapfrogged to 4G technology as smartphone penetration increased, while competitors were still struggling with older 2G and 3G standards.
-
 <figure>
     <img src="{{ '/assets/images/posts/Build-Wait.png' | relative_url }}" 
          alt="Build vs Wait strategy" 
          style="max-width: min(100%, 350px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption class="text-center">Comparing Build and Wait Strategies in Business Innovation</figcaption>
+    <figcaption style="text-align: center;">Comparing Build and Wait Strategies in Business Innovation</figcaption>
 </figure>
 
 > Vision without implementation is just hallucination.
@@ -63,12 +62,11 @@ To understand the reason for the success of these companies, I use the framework
 Built on this foundation is the tangible product or service offering, the 'what' and 'how' that delivers value. For all the successful companies, all the inspiration and copying happens at this level. 
 
 Finally, effective communication acts as a bridge between the company and its customers, clearly articulating the value proposition and ensuring long-term success. This layered approach ensures that innovation is rooted in a strong purpose, delivered through a compelling product and effectively communicated to the market.
-
 <figure>
     <img src="{{ '/assets/images/posts/Earth-Analogy-Copiers.png' | relative_url }}" 
          alt="Business layer analogy" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption class="text-center">Layered Business Model: Core, Product, and Communication</figcaption>
+    <figcaption style="text-align: center;">Layered Business Model: Core, Product, and Communication</figcaption>
 </figure>
 
 If these foundational elements aren't properly layered, it’s unlikely that any company—whether an incumbent or a disruptor-will achieve market dominance. It’s essential to start with the ‘why’-the core mission and vision-and then build outwards, ensuring that the product and communication strategy align with this fundamental purpose.
@@ -96,7 +94,6 @@ Here are some ways to frame this shift:
 By adopting this approach, you can feel less like you're "just copying" and more like you're an integral part of an ongoing **evolution**. Even within a feature factory, you're still shaping the product, learning, and growing your skills as a PM.
 
 ---
-
 **Philips vs. Panasonic**  
 Take Philips and Panasonic, two giants in consumer electronics, for example. While Philips often pioneered cutting-edge technologies, Panasonic, a relative latecomer, focused on adapting quickly and offering cost-effective solutions. Over time, Panasonic leveraged its ability to innovate operationally and commercially, achieving success despite entering the market after Philips.
 
@@ -119,7 +116,6 @@ Simply put, the new (and supposedly improved) idea, product or service will only
 The insight is simple, but when taken literally it often leads to disastrous results. The improvement must be in an existing gap between the alternatives. For example, the Ford car won because it was 10x better than a horse-drawn cart in terms of ease of use and reliability. Would a 10x better horse-drawn cart have beaten the car? Google succeeded because it was at least 10x better than the others in ranking the search results with their PageRank algorithm. Uber grew because it made cab hailing 10x than the existing cabs services. 
 
 ---
-
 ### Product-Market Fit
 #Product-Market-Fit
 The term product/market fit was coined by Sequoia Capital founder Don Valentine, formalised by Andy Rachleff and later popularised by Mark Andreessen of a16z. "*Product/market fit means being in a good market with a product that can satisfy that market.*" Product-Market Fit (PMF) is a stage in a company's growth journey when the products or services it sells are substantial enough (without much spends on ads) to meet the needs of the market. It's one of the first milestones on the road to becoming a successful business, and once a company has achieved product-market fit, it can focus solely on product scaling and innovation.
@@ -137,13 +133,12 @@ Whether it's a B2B or B2C product, the hard truth of PMF remains:
     <img src="{{ '/assets/images/posts/PMF-Enterprise-Consumer.png' | relative_url }}" 
          alt="Product Market Fit diagram" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption class="text-center">Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
+    <figcaption style="text-align: center;">Product-Market Fit Across Enterprise and Consumer Segments</figcaption>
 </figure>
 
 There is much more to PMF that cannot be covered in a short article and would be covered in a more detailed article at a later date. I would like to do a detailed article in the future on the do's and don'ts of PMF based on the frameworks + my thoughts, scale-up metrics and how to identify when you have achieved PMF.
 
 ---
-
 ### Technology Adoption Curve
 #Technology-Adoption-Curve
  The technology adoption curve is based on the diffusion of innovations and the marketing chasm concept first developed by Lee James and Warren Schirtzinger and popularised by George A. Moore in his book *Crossing the Chasm*. It is based on the assumption that every technology goes through different stages in its life cycle and is received differently by different target groups.
@@ -152,8 +147,7 @@ There is much more to PMF that cannot be covered in a short article and would be
     <img src="{{ '/assets/images/posts/Product-Adoption.png' | relative_url }}" 
          alt="Product Adoption Curve" 
          style="max-width: min(100%, 500px); height: auto; display: block; margin: 1rem auto;">
-    <figcaption class="text-center">Product-Adoption Curve and the Chasm</figcaption>
+    <figcaption style="text-align: center;">Product-Adoption Curve and the Chasm</figcaption>
 </figure>
 
 New products often fail to gain mainstream acceptance, despite initial good reception. There is a gap between the early adopters and the mainstream market. Mainstream companies look at the market to see who has already adopted your offering. If other big companies are already using the product, it will be adopted quickly. If not, it will fail. Few companies can cross the chasm. The framework suggests focusing on one audience at a time, and expanding the product as soon as an innovative company uses it to gain a competitive advantage.
----
