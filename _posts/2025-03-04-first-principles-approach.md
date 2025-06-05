@@ -20,7 +20,7 @@ What if you could solve problems by ignoring assumptions and starting from the a
 > When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
 <cite>Arthur Conan Doyle</cite>
 
-First principles thinking is a method of reasoning where you strip any idea or problem down to its most fundamental truths - facts so basic that they cannot be broken down or deduced from anything else. Instead of relying on what “everyone else does” or what seems to be the easiest assumption, you ask: _“What do I absolutely know to be true?”_
+First principles thinking (first principles problem solving) is a method of reasoning where you strip any idea or problem down to its most fundamental truths - facts so basic that they cannot be broken down or deduced from anything else. Instead of relying on what “everyone else does” or what seems to be the easiest assumption, you ask: _“What do I absolutely know to be true?”_
 
 From these foundational truths, you then rebuild your understanding or solutions from scratch, often uncovering insights and possibilities that others miss.
 
