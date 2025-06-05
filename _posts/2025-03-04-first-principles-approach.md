@@ -1,6 +1,6 @@
 ---
 title: "First Principles Thinking and Modern Innovation"
-date: 2025-03-05 22:00:00 +0530
+date: 2025-03-04 22:00:00 +0530
 hidden: false
 excerpt_separator: "<!--more-->"
 categories:
